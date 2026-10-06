@@ -131,7 +131,7 @@ This project is a software simulation and does not communicate with a physical t
 
 The readings are deterministic and do not represent real environmental measurements. The simulator does not model sensor noise, calibration errors, sensor drift, or environmental changes.
 
-The thresholds and operating modes are also fixed in the program and cannot currently be changed by the user.
+The thresholds and operating modes are also fixed in the program and cannot currently be changed by the user but the user can input a specific mode and count to output the results they would like to see.
 
 ## Author / Date
 
