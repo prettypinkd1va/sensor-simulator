@@ -135,5 +135,5 @@ The thresholds and operating modes are also fixed in the program and cannot curr
 
 ## Author / Date
 
-**Author:** Iman Mwai
+**Author:** Iman-Louise Mwai
 **Date:** October 2026
